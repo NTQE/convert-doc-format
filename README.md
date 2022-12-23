@@ -16,7 +16,7 @@ that python-docx wasn't able to grab.
 
 ### How To Use This:
 
-I've included an example `main.py` script that uses the methods provided to find and covert a group of documents inside the given directory.
+I've included an example `main.py` script that uses the methods provided to find and convert a group of documents inside the given directory.
 
 Note: This can't be done asynchronously as there are limitations in pywin32 and potentially win32 API's. Also, this method uses 
 the SaveAs method on the active document, so only one document can be active at a time to ensure each document is handled properly. 
