@@ -31,15 +31,6 @@ After gathering the document file paths, you can use the `src.convertdocs.method
 
 Note: They will be saved in the same directory. Currently recursive searching and conversion isn't supported.
 
-### Interesting Info:
-
-This project was created originally to assist a request I had at work to convert over 1,000 Word Documents into a new 
-format based on an updated template. Being used to Python and preferring to never touch VB or Macros, I immediately 
-looked for a package that would help me do so, and found python-docx available for the job. Unfortunately, .doc files are 
-completely incompatible because they are not OpenXML documents. After some quick research, I found this method and hope to 
-create a useful package for someone else to quickly be able to download and move on with what they really want to do.
-
-
 
 __References:__
 
