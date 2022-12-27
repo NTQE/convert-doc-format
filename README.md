@@ -6,8 +6,7 @@ The Office Conversion Tool:
 https://learn.microsoft.com/en-us/previous-versions/office/office-2010/cc179019(v=office.14)?redirectedfrom=MSDN
 
 This method is likely faster, but I haven't test that. Still, it's interesting to know that something like that exists and why 
-it wasn't pulling up higher in the search results on Google. Either way, this script was interesting to write and allows saving in j.txt and other formats as well.
-I would have still needed this to convert all the documents to .txt for parsing due to some smart tags embedded in the document
+it wasn't pulling up higher in the search results on Google. Either way, I would have still needed this to convert all the documents to .txt for parsing due to some smart tags embedded in the document
 that python-docx wasn't able to grab.
 
 # convertworddoc
