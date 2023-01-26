@@ -1,4 +1,4 @@
-# convertworddoc
+# convert-doc-format
 ### A helpful tool to easily and safely convert word documents into a new format.
 #### *Note: Primarily created for the purpose of converting outdated .doc documents into .docx and .txt for analysis using python-docx and regular expression parsing.*
 
