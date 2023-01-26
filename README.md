@@ -36,7 +36,7 @@ https://learn.microsoft.com/en-us/office/open-xml/understanding-the-open-xml-fil
 
 
 ## UPDATE: 
-Found another potential solution in my hurry to complete this project. I've since found another solution that I haven't tested yet.
+Found another potential solution that I haven't tested yet. May or may not have suited the requirements of this project, but it doesn't seem to convert to .txt and that was required to parse the smart tags embedded in the documents. Not sure if this tool properly converts those tags.
 
 The Office Conversion Tool:
 
